@@ -104,3 +104,10 @@ class Exemplo1 {
     }
 }
 ```
+
+## Tipos
+20220121 - Notas de aula
+
+ipos primitivos
+classes wraper
+atividades no moodle (só fazer, não precisa entregar)
